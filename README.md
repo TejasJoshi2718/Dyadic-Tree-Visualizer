@@ -14,7 +14,7 @@ Inspired by the Resonance article ["Measuring Time with Burning Ropes"](https://
 - Decisions must be taken at each step. These decisions help us to determine the order for burning the ropes in a correct fashion
 
 ## Features
-- 🔍 Enter any dyadic fraction \( \frac{k}{2^n} \)
+- 🔍 Enter any dyadic fraction k/(2^n)
 - 🌳 View the full binary tree of `'p'`/`'q'` decisions
 - 🎯 Automatically highlight the target node in the tree
 - 🧠 Models time decomposition logic from the rope puzzle
