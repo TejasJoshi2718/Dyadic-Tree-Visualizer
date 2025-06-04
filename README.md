@@ -8,7 +8,7 @@ Inspired by the Resonance article ["Measuring Time with Burning Ropes"](https://
 ## Background
 - The famous rope-burning puzzle is extended and displayed visually in the form of a binary tree.
 - n ropes burn exactly in 1 hour, but the rate of burning is non-uniform and unknown.
-- We need to measure \( \frac{k}{2^n} \) of an hour exactly using these ropes.
+- We need to measure k/(2^n) of an hour exactly using these ropes.
 - Each rope may be ignited either from one end or both, but never from the middle.
 - Link to the puzzle https://www.interviewbit.com/problems/measure-time-by-burning-ropes/
 - Decisions must be taken at each step. These decisions help us to determine the order for burning the ropes in a correct fashion
